@@ -273,6 +273,24 @@ body {
    height: 13.93vw;
 }
 
+@media (max-width:1439.98px) {
+   .sertificasion {
+      bottom: 7.54vw;
+      right: 72.51vw;
+      width: 26.8vw;
+      height: 26.93vw;
+   }
+}
+
+@media (max-width:1023.98px) {
+   .sertificasion {
+      bottom: 170.78vw;
+      right: 18.72vw;
+      width: 34.33vw;
+      height: 28.11vw;
+   }
+}
+
 /* Блок с картинкой Марио, этот блок применяется для анимации движения Марио.
 Этот блок будет поворачиватся и перемещать Марио */
 .mario {
